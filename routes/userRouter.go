@@ -3,8 +3,8 @@ package routes
 import (
 	"golang_jwt_auth/middleware"
 
-	controller "github.com/NagendraGokuwada/golang_jwt_auth/controllers"
 	"github.com/gin-gonic/gin"
+	controller "github.com/satya035/golang_jwt_auth/controllers"
 )
 
 func UserRoutes(incomingRoutes *gin.Engine) {
