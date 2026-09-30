@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/NagendraGokuwada/golang_jwt_auth/routes"
-	routes "github.com/NagendraGokuwada/golang_jwt_auth/routes"
 	"github.com/gin-gonic/gin"
+	"github.com/satya035/golang_jwt_auth/routes"
+	routes "github.com/satya035/golang_jwt_auth/routes"
 )
 
 func main() {
